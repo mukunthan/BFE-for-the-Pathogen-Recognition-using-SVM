@@ -1,5 +1,5 @@
 # BackwardFeatureElimination-for-the-Pathogen-Recognition-using-SVM
-Multi threaded Pathogen Classification using SVM Dlib 
+Multi threaded Pathogen Classification using SVM Dlib  (Visual Studio C++ Code)
 
 # Input
 Pathogen_VOC_Dataset_v4.txt
