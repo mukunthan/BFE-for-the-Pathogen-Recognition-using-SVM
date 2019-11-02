@@ -26,7 +26,7 @@ Results_svm.txt
 
 Please cite the below paper if you use this code in your work:
 
-Mukunthan Tharmakulasingam,Cihan Topal,Anil Fernando,and Roberto La Ragione, "Backward Feature Elimination for Accurate Pathogen Recognition Using Portable Electronic Nose”, IEEE International Conference on Consumer Electronics,2020 
+Mukunthan Tharmakulasingam, Cihan Topal, Anil Fernando,and Roberto La Ragione, "Backward Feature Elimination for Accurate Pathogen Recognition Using Portable Electronic Nose”, IEEE International Conference on Consumer Electronics,2020 
 (In Press)
 
 
